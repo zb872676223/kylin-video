@@ -1,3 +1,9 @@
+kylin-video (1.1.2-0ubuntu1) bionic; urgency=low
+
+  *  Modifying the way to get the version information.
+
+ -- lixiang <lixiang@kylinos.cn>  Tue, 06 Mar 2018 10:57:41 +0800
+
 kylin-video (1.1.1kord) juniper; urgency=low
 
   * Edit Shortcut Key.
